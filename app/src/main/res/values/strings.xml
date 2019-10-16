@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">random</string>
+    <string name="EDIT_LIST">EDIT LIST</string>
+    <string name="LUCKY_PERSON_Home">LUCKY PERSON</string>
+    <string name="Selec_Person">Select Person</string>
+    <string name="Random">Random</string>
+    <string name="nameEdit">nameEdit</string>
+    <string name="deleteName">-</string>
+    <string name="name_add">name</string>
+
+    <string name="surname_add">surname</string>
+    <string name="sername_add">sername</string>
+    <string name="add">Add</string>
+    <string name="inputName">name</string>
+</resources>
